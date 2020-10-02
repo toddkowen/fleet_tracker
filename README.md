@@ -1,2 +1,2 @@
-# flight_analyzer
-Flight analysis tool for a list of aircraft
+# fleet_tracker
+Flight analysis tool that can track usage, status, and misc. stastics for an aircraft fleet
